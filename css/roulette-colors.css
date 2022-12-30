@@ -1,0 +1,48 @@
+#roulette .roulette-section:first-child .roulette-section-container {
+    background-color: #F4E022;
+}
+
+#roulette .roulette-section:nth-child(2) .roulette-section-container {
+    background-color: #00a0b0;
+}
+
+#roulette .roulette-section:nth-child(3) .roulette-section-container {
+    background-color: #6a4a3c;
+}
+
+#roulette .roulette-section:nth-child(4) .roulette-section-container {
+    background-color: #cc333f
+}
+
+#roulette .roulette-section:nth-child(5) .roulette-section-container {
+    background-color: #eb6841;
+}
+
+#roulette .roulette-section:nth-child(6) .roulette-section-container {
+    background-color: #edc951;
+}
+
+#roulette .roulette-section:nth-child(7) .roulette-section-container {
+    background-color: #04394e;
+}
+
+#roulette .roulette-section:nth-child(8) .roulette-section-container {
+    background-color: #00875e;
+}
+
+#roulette .roulette-section:nth-child(9) .roulette-section-container {
+    background-color: #a7cc15;
+}
+
+#roulette .roulette-section:nth-child(10) .roulette-section-container {
+    background-color: #f5cc17;
+}
+
+#roulette .roulette-section:nth-child(11) .roulette-section-container {
+    background-color: #f56217;
+}
+
+#roulette .roulette-section:nth-child(12) .roulette-section-container {
+    background-color: #F1F7B5;
+}
+
